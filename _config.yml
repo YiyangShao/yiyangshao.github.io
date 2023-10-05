@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinyihong Liu"
+title                    : "Yiyang Shao"
 title_separator          : "-"
-name                     : &name "Yinyihong Liu"
-description              : &description "I'm a Master student of statistics at Duke University."
-url                      : https://emily0630.github.io/
+name                     : &name "Yiyang Shao"
+description              : &description "I'm a Master student of Computer Science at Duke University."
+url                      : https://yiyangshao.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emily0630/emily0630.github.io"
+repository               : "yiyangshao/yiyangshao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Yinyihong Liu', 'yinyihong.liu@duke.edu']
+  allowedFields          : ['Yiyang Shao', 'yiyangshao70@gmail.edu']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yinyihong Liu"
-  avatar           : "yinyihong.jpg"
-  bio              : "She/Her/Hers"
+  name             : "Yiyang Shao"
+  avatar           : "YiyangShao.jpg"
+  bio              : "He/Him/His"
   location         : 
   employer         : 
   pubmed           :
   googlescholar    : 
-  email            : "yinyihong.liu@duke.edu"
+  email            : "yiyangshao70@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emily0630"
+  github           : "yiyangshao"
   google_plus      :
   keybase          :
   instagram        :
