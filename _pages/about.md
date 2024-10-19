@@ -11,38 +11,53 @@ redirect_from:
 Pronouns: *He/Him/His*.
 
 
-Hello! I'm a second-year master student in computer science at Duke University.
-
-Languages: Python, Javascript, C, Java, Swift, SQL, R
-
-Technologies: Git, React, Vue, Node, Cypress, Docker, Linux, REST, Pytorch, Pandas, Agile
-
-Professional Experience
-------------
-Zillow | Software Development Engineer Intern                                                     May 2023 – Aug 2023
-- Established the success webpage for Zillow Home Loan, leveraging React for frontend and Python for Backend, integrating with pricing, database, clickstream, and documentation services
-- Utilized React to enhance the data security clues of Zillow's home loan website, increasing third party leads by 25%
-- Launched Zillow home loan service in New Jersey, contributing to establishment of a new market
-
-Iflytek | Core Technology Researcher Intern                                                           May 2020 – Aug 2020
-- Spearheaded the development of a high-resolution Deep Neural Network, achieving state-of-the-art performance (45% MIoU) on the ADE20K Dataset for pixel-level image semantic segmentation tasks
-- Conducted comprehensive control experiments involving ACFnet, OCnet, Efficientnet, etc. 
-- Extended the research findings to video semantic segmentation and semantic segmentation with interaction
+I'm Yiyang Shao, a software engineer driven by a passion for tackling real-world problems. With a strong foundation from Duke and NYU, I’ve immersed myself in building high-traffic platforms, AI-powered trading strategies, and innovative algorithms. From boosting user experiences at Zillow to scaling features at IXL, I thrive on solving challenges with curiosity and creativity. I code, create, and aim to make a tangible impact—one solution at a time. 🚀
 
 
-Selected Projects 
---------------
-- Solving generalized sorting with ELO-rating system                                             Mar 2021 – May 2022
-- Designed and developed a practical generalized sorting algorithm based on the ELO-rating system, surpassing the performance of existing theoretical algorithms in applicational experiments
-- Proposed an optimal random sorting algorithm specifically tailored for generalized sorting and mathematically proved its optimality and time-efficiency
-- Conducted comprehensive applicational tests using Python in various contexts to demonstrate the practical efficiency of the ELO sorting algorithm
+## Education
+### Duke University
+*Aug 2022 - May 2024*  
+**M.S. in Computer Science; GPA: 3.81**
 
-IOS app development for Gather Green                                                                  Feb 2023 – May 2023
-- Established an iOS shopping app using SwiftUI as the frontend framework, serving as a marketplace for users and inventory management tool for administrators
-- Integrated Vapor as the backend framework to handle server-side operations, and implemented PostgreSQL database to store product information, user data, and other relevant details
-- Deployed the app to the App Store and integrated Apple Pay functionality
+### New York University
+*Sep 2018 – May 2022*  
+**B.S. in Computer Science, Honors Mathematics; GPA: 3.85**
 
-Mmap Implementation and evaluation in xv6 | Group Project                               Oct 2022 – Dec 2022                                                                
-- Implemented Mmap and Munmap functionality in C in XV6 system kernel, saving system calls and creating an efficient endpoint to access file data
-- Modified Proc Struct, fork, exit, and page fault handler, to allow sharing physical pages between parent and child process
-- Designed micro-benchmarks and macro-benchmarks to evaluate the performance of Mmap, saving 83% reading time and 69% writing time compared to normal file operations
+## Languages and Technologies
+- **Languages:** Python, Javascript, Java, Swift, SQL
+- **Technologies:** Git, React, Vue, Node, Cypress, Docker, Linux, REST, Pytorch, Pandas, Agile
+
+## Professional Experience
+
+### IXL | Software Development Engineer
+*July 2024 – Now*
+- Enhanced and maintained robust audio and translation capabilities using Java and React for a high-traffic platform serving 15M+ users globally.
+- Refactored audio and translation components to enhance modularity, scalability, and system simplicity, resulting in improved maintenance and faster integration of new features.
+
+### Zillow | Software Development Engineer Intern
+*May 2023 – Aug 2023*
+- Built the final landing page of Zillow Home Loan, handling ~100,000 daily user visits with integrations of pricing, clickstream, and documentation services using React and Python.
+- Boosted third-party leads by 25% by enhancing data security features, improving overall user trust in the home loan website.
+- Contributed to an increase in market share by launching Zillow Home Loan services in New Jersey through full-stack development and seamless deployment.
+
+### IFlytek | Core Technology Researcher Intern
+*May 2020 – Aug 2020*
+- Led the development of a high-resolution network, attaining state-of-the-art performance with a 45% MIoU on ADE20K for pixel-level image semantic segmentation tasks.
+- Conducted extensive control experiments with neural networks including ACFnet, OCnet, and Efficientnet.
+
+## Selected Projects
+
+### GPT-4 based sentiment trading strategy
+*Sep 2023 - Dec 2023*
+- Achieved a PnL of 11.46% and a Sharpe ratio of 0.728 by leading the design and implementation of a GPT-4 based trading strategy for market sentiment analysis.
+- Enhanced model accuracy by 15% and improved scalability by innovating prompt engineering and analytical reasoning.
+
+### IOS app development for Gather Green
+*Feb 2023 – May 2023*
+- Developed and launched an iOS shopping app using SwiftUI, creating a user-friendly marketplace interface and an efficient inventory management tool for administrators.
+- Integrated Vapor for backend operations, employing PostgreSQL for robust data handling of product information, user data, and other key details.
+
+### Algorithm research on generalized sorting
+*Mar 2021 – May 2022*
+- Innovated a generalized sorting algorithm based on the ELO-rating system, improving performance by 10% over existing algorithms through extensive practical applications.
+- Developed and mathematically proved the optimality and efficiency of a tailored random sorting algorithm specifically for generalized sorting contexts.
